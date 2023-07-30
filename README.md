@@ -7,6 +7,7 @@ KPIs:
 3. Total pizzas sold
 4. Total order
 5. Average pizzas per order
+   
 Charts:
 1. Daily trend for total orders
 2. monthly trend for total orders
