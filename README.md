@@ -1,5 +1,6 @@
 # PIZZA-SALES-MYSQL 
 It is the basic level POWERBI and SQL Data analyst portfolio project where pizza sales for the year 2015 is analysed and answers to the following questions were observed-
+
 KPIs:
 1. Total Revenue
 2. Average order value
